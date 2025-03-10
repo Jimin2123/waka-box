@@ -17,4 +17,4 @@ jobs:
           # GIST_ID: ${{ secrets.GIST_ID }}
           GIST_ID: c0e0e43d6f5cfb8da84ff6cc79d9d323
           # WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_API_KEY: waka_b2a6b4fb-72a6-421f-b905-a2e5597d792d
+          WAKATIME_API_KEY: waka_d9a6c5d4-408c-43f1-849a-2858f8f47b68
